@@ -3,10 +3,18 @@
 Hi! I'm **Prathmesh Kattukar**, a Frontend Developer passionate about creating clean, user-friendly digital experiences.  
 I enjoy working with **React, JavaScript, and modern UI tools**, and I'm constantly learning to improve my craft.
 
-- 🌱 Currently learning **Full-Stack Development**
+- 🌱 Actively learning backend development & building full-stack projects 
 - 🎯 Goals: Build impactful web apps & grow as a Game / UI Designer
 - 💡 Fun fact: I love indie games & design creativity
 - 📩 Reach me at **prathmeshkattukar@gmail.com**
+
+---
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-kattukar-1670b21b3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prathmeshkattukarwebsite.netlify.app/)
+[![X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prathmesh4038)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshkattukar@gmail.com)
 
 ---
 
@@ -43,8 +51,4 @@ I enjoy working with **React, JavaScript, and modern UI tools**, and I'm constan
 
 ---
 
-## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/prathmesh-kattukar-1670b21b3) •  
-[Portfolio](https://prathmeshkattukarwebsite.netlify.app/) •  
-[Twitter / X](https://x.com/prathmesh4038)
