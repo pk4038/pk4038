@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**pk4038/pk4038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Prathmesh Kattukar**, a Frontend Developer passionate about creating clean, user-friendly digital experiences.  
+I enjoy working with **React, JavaScript, and modern UI tools**, and I'm constantly learning to improve my craft.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Full-Stack Development**
+- 🎯 Goals: Build impactful web apps & grow as a Game / UI Designer
+- 💡 Fun fact: I love indie games & design creativity
+- 📩 Reach me at **prathmeshkattukar@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pk4038&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pk4038&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pk4038&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/prathmesh-kattukar-1670b21b3) •  
+[Portfolio](https://prathmeshkattukarwebsite.netlify.app/) •  
+[Twitter / X](https://x.com/prathmesh4038)
