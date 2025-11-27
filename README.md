@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi! I'm **Prathmesh Kattukar**, a Frontend Developer passionate about creating clean, user-friendly digital experiences.  
+Hi! I'm **Prathmesh Kattukar**, a Full stack Developer passionate about creating clean, user-friendly digital experiences.  
 I enjoy working with **React, JavaScript, and modern UI tools**, and I'm constantly learning to improve my craft.
 
 - 🌱 Actively learning backend development & building full-stack projects 
