@@ -16,6 +16,8 @@ I enjoy working with **React, JavaScript, and modern UI tools**, and I'm constan
 [![X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prathmesh4038)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshkattukar@gmail.com)
 
+[![Scrimba](https://img.shields.io/badge/Scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)](https://scrimba.com/?via=u4232942)
+
 ---
 
 ## 🛠 Tech Stack
