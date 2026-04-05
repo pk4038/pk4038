@@ -45,7 +45,7 @@ I enjoy working with **React, JavaScript, and modern UI tools**, and I'm constan
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pk4038&show_icons=true&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pk4038&layout=compact&theme=radical)
 
