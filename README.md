@@ -41,16 +41,5 @@ I enjoy working with **React, JavaScript, and modern UI tools**, and I'm constan
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 
 
----
-
-## 📊 GitHub Stats
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pk4038&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pk4038&theme=radical)
-
----
 
 
